@@ -1,0 +1,29 @@
+# Compilação de arquivos
+*.o
+*.exe
+*.out
+*.a
+*.so
+
+# Arquivos gerados automaticamente
+tempCodeRunnerFile*
+;
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Backups do editor
+*~
+*.swp
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos de nome aleatório, ordenado, etc. que podem ser re-gerados
+nomes_aleatorio.txt
+nomes_crescente.txt
+nomes_decrescente.txt

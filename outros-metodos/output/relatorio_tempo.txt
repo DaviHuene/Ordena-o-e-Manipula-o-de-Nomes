@@ -1,0 +1,10 @@
+Metodo: bucket, Caso: melhor, Tempo de execucao: 0.00228 segundos
+Método: radix, Caso: melhor, Tempo de execução: 0.00192 segundos
+Método: merge, Caso: melhor, Tempo de execução: 0.00066 segundos
+Método: bucket, Caso: melhor, Tempo de execução: 0.00235 segundos
+Método: merge, Caso: pior, Tempo de execução: 0.00061 segundos
+Método: bucket, Caso: pior, Tempo de execução: 0.03028 segundos
+Método: radix, Caso: pior, Tempo de execução: 0.00191 segundos
+Método: merge, Caso: medio, Tempo de execução: 0.00070 segundos
+Método: bucket, Caso: medio, Tempo de execução: 0.01827 segundos
+Método: radix, Caso: medio, Tempo de execução: 0.00218 segundos

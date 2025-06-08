@@ -1,0 +1,1 @@
+Método: insertion, Caso: melhor, Tempo de execução: 0.00007 segundos
